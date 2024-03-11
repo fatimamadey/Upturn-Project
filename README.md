@@ -39,7 +39,7 @@ Upturn is a two-player game where players take turns placing pieces on the board
 2. Run the executable to start the game.
     - To run the executable and start the game, use the following command:
     `./play -h <height> -w <width> -r <winning_run_length> -<representation>`
-    Replace <height>, <width>, and <winning_run_length> with the desired values for the height, width, and winning run length of the board, respectively. Additionally, choose either -m for the matrix representation or -b for the bits representation to specify the board representation type.
+    Replace `<height>`, `<width>`, and `<winning_run_length>` with the desired values for the height, width, and winning run length of the board, respectively. Additionally, choose either -m for the matrix representation or -b for the bits representation to specify the board representation type.
 
 ### Gameplay
 1. The game begins with an empty board.
