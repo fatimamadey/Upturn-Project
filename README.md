@@ -56,5 +56,3 @@ Upturn is a two-player game where players take turns placing pieces on the board
 - To place a piece in row 3 and column C: `3C`
 - To rotate the board counterclockwise: `!<`
 - To uplift the oldest white piece: `!W`
-
-Enjoy playing Upturn with a friend and may the best strategist win!
